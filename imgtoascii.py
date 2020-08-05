@@ -49,4 +49,3 @@ if __name__ == '__main__':
         f.write(ascii_image)
     
 
-#https://stackoverflow.com/questions/17856242/convert-string-to-image-in-python
